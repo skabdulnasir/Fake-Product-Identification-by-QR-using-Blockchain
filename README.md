@@ -6,6 +6,7 @@ GUI App:
 + [Python GUI](https://docs.python.org/3/library/tkinter.html) - GUI app
 + [MySQL](https://pypi.org/project/pymysql/) - Database for login/register
 + [qrcode](https://pypi.org/project/qrcode/) ,[pyzbar](https://pypi.org/project/pyzbar/) - creating and reading a dynamic QR code
++ [Tools] - VS code
   
 
 Blockchain:
